@@ -1,44 +1,31 @@
-**!! Atenção: Renomeie o seu repositório para (Tema)_(NomeDoProjeto). !!** 
+# Greddy LeetCode
 
-Temas:
- - Grafos1
- - Grafos2
- - PD
- - D&C
- - Greed
- - Final 
- 
- **!! *Não coloque os nomes dos alunos no título do repositório*. Exemplo de título correto: Grafos2_Labirinto-do-Minotauro !!**
- 
- (Apague essa seção)
-
-# NomedoProjeto
-
-**Número da Lista**: X<br>
-**Conteúdo da Disciplina**: XXXXXXXXXX<br>
+**Número da Lista**: 62<br>
+**Conteúdo da Disciplina**: Algoritmos Ambiciosos<br>
 
 ## Alunos
 |Matrícula | Aluno |
 | -- | -- |
-| xx/xxxxxx  |  xxxx xxxx xxxxx |
-| xx/xxxxxx  |  xxxx xxxx xxxxx |
+| 221022275  |  Felipe Amorim de Araújo |
+| 221022570  |  Gabryel Nícolas Soares de Sousa  |
 
 ## Sobre 
-Descreva os objetivos do seu projeto e como ele funciona. 
+O projeto envolve a resolução de alguns problemas desafiadores do juiz online LeetCode envolvendo os conceitos estudados no conteúdo de Algoritmos Ambiciosos da disciplina de Projeto de Algoritmos. Os problemas resolvidos, links e resoluções podem ser encontrados na tabela a seguir:
+
+| Nome do Problema | Link | Dificuldade | Resolução |
+| -- | -- | -- | -- |
+|  |  |  |  |
 
 ## Screenshots
 Adicione 3 ou mais screenshots do projeto em funcionamento.
 
 ## Instalação 
-**Linguagem**: xxxxxx<br>
-**Framework**: (caso exista)<br>
-Descreva os pré-requisitos para rodar o seu projeto e os comandos necessários.
+**Linguagem**: Python<br>
 
 ## Uso 
-Explique como usar seu projeto caso haja algum passo a passo após o comando de execução.
+Para executar as resoluções, copie o código em cada arquivo e coloque no LeetCode, ou crie casos de testes para execução de cada arquivo
 
-## Outros 
-Quaisquer outras informações sobre seu projeto podem ser descritas abaixo.
+## Vídeo
 
 
 
