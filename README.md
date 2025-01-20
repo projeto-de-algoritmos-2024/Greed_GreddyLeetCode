@@ -20,8 +20,11 @@ O projeto envolve a resolução de alguns problemas desafiadores do juiz online 
 | 1606. Find Servers That Handled Most Number of Requests | [LeetCode](https://leetcode.com/problems/find-servers-that-handled-most-number-of-requests/description/) | Difícil | [Resolução](./1606_Find_Servers_That_Handled_Most_Number_Of_Requests/Solution.py) |
 
 ## Screenshots
-Adicione 3 ou mais screenshots do projeto em funcionamento.
+Median of Two Sorted Arrays
+![Imagem 1584](./1584_Min_Cost_to_Connect_All_Points/img.png)
 
+Kth Largest Element in an Array
+![Imagem 630](./630_Course_Schedule_III/img.png)
 ## Instalação 
 **Linguagem**: Python<br>
 
