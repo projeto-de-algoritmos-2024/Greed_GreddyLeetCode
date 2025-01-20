@@ -20,16 +20,16 @@ O projeto envolve a resolução de alguns problemas desafiadores do juiz online 
 | 1606. Find Servers That Handled Most Number of Requests | [LeetCode](https://leetcode.com/problems/find-servers-that-handled-most-number-of-requests/description/) | Difícil | [Resolução](./1606_Find_Servers_That_Handled_Most_Number_Of_Requests/Solution.py) |
 
 ## Screenshots
-- 1584. Min Cost to Connect All Points 
+- Min Cost to Connect All Points 
 ![Imagem 1584](./1584_Min_Cost_to_Connect_All_Points/img.png)
 
-- 630. Course Schedule III
+- Course Schedule III
 ![Imagem 630](./630_Course_Schedule_III/img.png)
 
-- 2406. Divide Intervals Into Minimum Number of Groups
+- Divide Intervals Into Minimum Number of Groups
 ![Imagem 1606](./2406_Divide_Intervals_Into_Minimum_Groups/image.png)
 
-- 1606. Find Servers That Handled Most Number of Requests
+- Find Servers That Handled Most Number of Requests
 ![Imagem 2406](./1606_Find_Servers_That_Handled_Most_Number_Of_Requests/image.png)
 
 ## Instalação 
