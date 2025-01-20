@@ -15,6 +15,7 @@ O projeto envolve a resolução de alguns problemas desafiadores do juiz online 
 | Nome do Problema | Link | Dificuldade | Resolução |
 | -- | -- | -- | -- |
 | 2406. Divide Intervals Into Minimum Number of Groups | [LeetCode](https://leetcode.com/problems/divide-intervals-into-minimum-number-of-groups/description/) | Média | [Resolução](./2406_Divide_Intervals_Into_Minimum_Groups/Solution.py) |
+| 1606. Find Servers That Handled Most Number of Requests | [LeetCode](https://leetcode.com/problems/find-servers-that-handled-most-number-of-requests/description/) | Difícil | [Resolução](./1606_Find_Servers_That_Handled_Most_Number_Of_Requests/Solution.py) |
 
 ## Screenshots
 Adicione 3 ou mais screenshots do projeto em funcionamento.
