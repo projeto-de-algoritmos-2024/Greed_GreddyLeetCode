@@ -26,6 +26,12 @@ O projeto envolve a resolução de alguns problemas desafiadores do juiz online 
 630. Course Schedule III
 ![Imagem 630](./630_Course_Schedule_III/img.png)
 
+2406. Divide Intervals Into Minimum Number of Groups
+![Imagem 1606](./2406_Divide_Intervals_Into_Minimum_Groups/image.png)
+
+1606. Find Servers That Handled Most Number of Requests
+![Imagem 2406](./1606_Find_Servers_That_Handled_Most_Number_Of_Requests/image.png)
+
 ## Instalação 
 **Linguagem**: Python<br>
 
